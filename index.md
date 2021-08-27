@@ -50,4 +50,4 @@ To Be Defined
 - **integration to in-office social media channels** Teams/Yammer etc... LinkedIn, and other social media posting handles
 - **xCoin crypto currency**; build xCoin as a cryptocurrency; trade in xCoin, buy things using xCoin
 - **Employee wellness Marketplace**
-- **employee fitness analytics, insights** better actions, build wellness programs for employees
+- **employee fitness analytics, insights** better actions, build wellness programs for Employees
