@@ -1,0 +1,10 @@
+site_name: Idea Guru docs
+site_description: 'A docs test'
+site_author: 'Guruprasad'
+docs_dir: docs/
+repo_name: 'gruuparasad/ideaguru'
+repo_url: 'https://github.com/gruuparasad/ideaguru
+nav:
+    - Home: Readme.md
+theme:
+  name: 'material'
