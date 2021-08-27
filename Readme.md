@@ -27,6 +27,15 @@ To Be Defined
 - **completion privacy maintenance** => some might not want to report steps, so allow them to set preferences
 - **simple outlook add-on / meeting template to use**
 
+**Benefits**
+- Happy & healthy employees
+- Boost productivity & employee experience
+- Empower & engage - workplace culture promoting physical and emotional well-being
+- Reduce company health cost
+- Organizational well-being dashboard
+- All health app integrations
+- Submission to respective health plans, if opted by participants
+- White-labeling???
 
 **Additional Features**_
 - add-in **company/unit/organization/team/meeting level gamification**
@@ -37,7 +46,8 @@ To Be Defined
 - provide a catalog of activities, sample goals, and allow enterprise level settings (packages???)
 
 **Future enhancements**
-- **Gamification** - ReLeveLer levels, badges, groups; Earn fitcoins for taking part, organizing etc; earn points/miles/coins, exchange for deals, offers, items
+- **Dynamic leaderboards** - Gamification techniques -> ReLeveLer levels, badges, groups; Earn fitcoins for taking part, organizing etc; earn points/miles/coins, exchange for deals, offers, items
+- **integration to in-office social media channels** Teams/Yammer etc... LinkedIn, and other social media posting handles
 - **xCoin crypto currency**; build xCoin as a cryptocurrency; trade in xCoin, buy things using xCoin
 - **Employee wellness Marketplace**
 - **employee fitness analytics, insights** better actions, build wellness programs for employees
