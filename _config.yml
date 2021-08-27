@@ -1,6 +1,1 @@
-nav:
-    - Home: index1.md
-    theme:
-  name: 'material'
-
 theme: jekyll-theme-architect
