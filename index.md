@@ -1,4 +1,4 @@
-# **ReLeveLeR**
+# **ReLeveLeR** - its a new concept
 For those full-time office goers 
 - 33% of your life-day goes in work place
 - of which, currently on average 50% of that work-day goes in virtua meetings
@@ -15,10 +15,10 @@ For those full-time office goers
 2. Auto-sync with your fitness device or manually enter actual steps for the meeting time to record
 3. Get certified as a "Releveler" for taking part; You got your steps counted, and calories burnt as a group. 
 
-MVP:
+# MVP:
 To Be Defined
 
-**Current Features:**
+# **Current Features:**
 - **Auto-set walking goals** => initially based on average human being walking speed, # of steps in a time period; over a period of time, with AI, learn the pattern of each user with their data and automatically pre-populate
 - **Opt-in/Opt-out** => not everyone likes to walk, or has energy; allow to opt-out (autommatically opted-in) and reduce goal accordingly
 - **register personal fitness device** => if I have a fitbit, or google fit or apple health or any tracker, I should be able to register automatically, and auto-sync steps data
@@ -27,7 +27,7 @@ To Be Defined
 - **completion privacy maintenance** => some might not want to report steps, so allow them to set preferences
 - **simple outlook add-on / meeting template to use**
 
-**Benefits**
+# **Benefits**
 - Happy & healthy employees
 - Boost productivity & employee experience
 - Empower & engage - workplace culture promoting physical and emotional well-being
