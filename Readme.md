@@ -1,5 +1,5 @@
 **ReLeveLeR**
-For those full-time office workers 
+For those full-time office goers 
 - 33% of your life-day goes in work place
 - of which, currently on average 50% of that work-day goes in virtua meetings
 - fitness goes for a toss, sitting on average of 4 hours a day, in those virtual meetings... that sedentary piece sometimes carries over, and including fitness & recovery into your day becomes difficult
