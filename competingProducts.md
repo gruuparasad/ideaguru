@@ -1,4 +1,14 @@
+**HealthHero**
+- https://msteams.gohealthhero.com/
+- Probably the only direct competition; focused more on as TEAMS app
+- Interestingly main site leads us into the world of digital health and wellness NFTs
+- Building NFT-powered wellness app - very very interesting - need to watch out
+- overall healthhero platform is thing to watchout for: https://developers.gohealthhero.com/
+- is also HIPAA-compliant
+- has an intersection with our offering
+
 **SPOT mobile app **
+- https://www.meetwithspot.com/
 - Spot is a collaboration tool built to support walking meetings.
 - a meeting app to enable walking during meetings
 - focus is more on meeting and collaboration than fitness goals
@@ -17,4 +27,7 @@
 https://fitnesscoin.com/ - 
 - appears to be a simple site, with no actual features;
 - unsure
-Sweatcoins
+
+**Sweatcoins**
+
+**RALLY platform**
