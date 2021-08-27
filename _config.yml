@@ -1,2 +1,4 @@
-theme:
+nav:
+    - Home: index1.md
+    theme:
   name: 'material'
